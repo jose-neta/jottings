@@ -96,4 +96,11 @@ Now it's time to fine tune the theme. We are using the default theme. To find it
 
 Every layout or parcial you are willing to customize must be included in your blog root folder. In my case I just needed to copy `_layouts/home.hml` from path above and some parcial `_includes/footer.html` and `_includes/social.html` and edit them accordingly to my taste.
 
+
+
 Have fun!
+
+# Reference
+
+- [GitHub Pages docs](https://help.github.com/en/github/working-with-github-pages)
+- [Jekyll theme docs](https://jekyllrb.com/docs/themes/)
