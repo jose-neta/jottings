@@ -3,6 +3,7 @@ layout: post
 title:  "Using GitHub pages to blog"
 date:   2020-03-22 15:10:00 +0000
 categories:
+tags: jekyll
 ---
 # Install Ruby
 
